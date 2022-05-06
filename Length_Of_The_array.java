@@ -1,7 +1,7 @@
 //lentgth of the string 
 class t{
   public static void main(String[] args) {
-    String s="NihalTonape";
+    String s="JoydipGhoshal";
    char[] c=s.toCharArray();
    int count=0;
    for (char ch: c ) {
